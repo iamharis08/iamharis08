@@ -14,9 +14,10 @@ I am a Full Stack Software Engineer with a passion to learn and create new thing
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  <p align="center">
-    [![GitHub Streak](https://streak-stats.demolab.com/?user=iamharis08)](https://git.io/streak-stats)
-  </p>
+  
+  
+  ### My Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=iamharis08&theme=dark)](https://git.io/streak-stats)
 
 
 
